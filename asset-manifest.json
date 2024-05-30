@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/load-more-btn/static/css/main.31d6cfe0.css",
+    "main.js": "/load-more-btn/static/js/main.c3501252.js",
+    "index.html": "/load-more-btn/index.html",
+    "main.c3501252.js.map": "/load-more-btn/static/js/main.c3501252.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c3501252.js"
+  ]
+}
